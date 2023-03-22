@@ -1,4 +1,4 @@
-# Nyaftp V0.2
+# Nyaftp V0.2 (Bubblepi)
 Just a kawaii version of ftp program written in python Nyaa~
 
 ## Version 0.1 Features
