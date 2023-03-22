@@ -1,6 +1,9 @@
 # Nyaftp V0.2 (Bubblepi)
 Just a kawaii version of ftp program written in python Nyaa~
 
+![Alt text](img/banner.PNG)
+
+
 ## Version 0.1 Features
 
 1. Basic ftp commands included like get, pull, ls, pwd, cd etc
