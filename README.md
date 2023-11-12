@@ -1,31 +1,33 @@
-# Nyaftp V0.2 (Bubblepi)
-Just a kawaii version of ftp program written in python Nyaa~
+# Nyaftp V0.2 (Bubblepi) 🌸✨
 
-![Alt text](img/banner.PNG)
+Just a super kawaii version of an FTP program written in Python Nyaa~ 🐾
 
+![Nyaftp Banner](img/banner.PNG)
 
-## Version 0.1 Features
+## Version 0.1 Features 🌈
 
-1. Basic ftp commands included like get, pull, ls, pwd, cd etc
+1. Basic FTP commands included like `get`, `pull`, `ls`, `pwd`, `cd`, etc.
 
-2. Added a loader that shows download speed & progress 
+2. Added a loader that shows download speed & progress, making your FTP experience extra kawaii!
 
-## Version 0.2 Features
+## Version 0.2 Features 🌟
 
-1. Added more FTP console commands rm, mkdir etc 
+1. Added more FTP console commands like `rm`, `mkdir`, etc. Expanding the kawaii functionalities!
 
-2. Added Cool Nyaftp Banner nya!
+2. Added a Cool Nyaftp Banner nya! Because every kawaii FTP deserves a cute banner.
 
-3. Added support for directory management in main console
+3. Added support for directory management in the main console. Organizing files with a touch of kawaii!
 
-4. Added support for local directory management in FTP console
+4. Added support for local directory management in the FTP console. Making file transfers even more adorable!
 
-### this Nyaftp requires the following libraries to run
-to install colorama and tqdm
-```
+### Nyaftp Requirements 🌸
+
+This Nyaftp requires the following libraries to run. Make sure to install `colorama` and `tqdm` to experience maximum kawaii-ness! Nyaa~ 💖
+
+```bash
 pip install colorama tqdm
 ```
 
-# Contributors
+# Contributors 🌼
 
-* Denizuh
+* Denizuh 🌈
